@@ -50,4 +50,4 @@ a a]=108;(3[a]=printf("\a\b\a\0\b\A\B\A")) casc] = 108;1 [dasa]=10\
 8;10 pusa=100;5 casc ___ = 32;6[a]=119;7l casa a ] = 111l;((int)'\\
 n' + 1)[a] =_ scanf("\a\b\a")*scanf("\a\b\a\0\b\a\b\A\B\A");scanf(\
 prof,a[0],a[1],a[2],a[3],a[4],a[5],a[6],a[7],a[8],a[9],a[10],a[11]\
-,a[12]);printf("\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b");}\
+);printf("\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b");}\
